@@ -1,3 +1,3 @@
 # Dash
 
-#Dashboard utilizando o streamlit, pandas e plotly
+Dashboard utilizando o streamlit, pandas e plotly
