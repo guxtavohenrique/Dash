@@ -21,8 +21,8 @@ st.write("As respostas obtidas serviram como uma base sólida de dados para se e
 #comando para colocar subtitulo
 st.subheader("Respostas do Formulário", divider='rainbow')
 
-#comando para ler o banco de dados em excell
-df = pd.read_excel("respostas.xlsx", engine="openpyxl")
+#comando para ler o banco de dados em excel
+df = pd.read_excel("o arquivo excel entra aqui", engine="openpyxl")
 df
 
 #comando para colocar subtitulo
