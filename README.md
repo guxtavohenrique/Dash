@@ -37,13 +37,14 @@ Vamos instalar as ferramentas necessárias para o nosso dashboard <br />
 
 - pip install streamlit <br />
 - pip install plotly <br />
+- pip install pandas <br />
 - pip install xlrd
 - pip install openpyxl
 
 Obs: Os dois últimos import é pra lê e abrir o arquivo Excell em formato xlsx
 
 # 4º Passo
-Vamos acessar nosso dashboard <br />
+Vamos acessar nosso dashboard pelo terminal <br />
 - streamlit run dash.py <br />
 
 Irá pedir seu email
